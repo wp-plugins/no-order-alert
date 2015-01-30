@@ -23,13 +23,8 @@ Plugin is used to get no order alert as email to your administrator email or any
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `No Order Alert` directory to the `/wp-content/plugins/` directory
+1. Upload the entire `no-order-alert` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
 
 == Frequently Asked Questions ==
 
@@ -40,7 +35,6 @@ It is very simple to configure the plugin. just activate the plugin and go to ad
 = Is this plugin competible to newest version of the WooCommerce? =
 
 Yes, this version of the plugin is supported and tested upto WooCommerce 2.2. We are ready to give you regular updates on regular WooCommerce update.
-
 
 == Screenshots ==
 
@@ -55,26 +49,3 @@ Yes, this version of the plugin is supported and tested upto WooCommerce 2.2. We
 
 = 1.0 =
 This is the first version of the plugin so you don't need any information about upgrade.
-
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. Send automatic woocommerce last placed orders email notification to admin and add various email addresses.
-2. Easy to use.
-3. Clean code.
-4. User can design its own email template by using template editor.
-5. Regular updates.
-
-Unordered list:
-
-* Email woocommerce e-commerce store order notifications.
-* Supported to all latest Wordpress and Woocommerce version.
-* Compatible upto Wordpress 4.1.
-* Compatible upto WooCommerce 2.2.
