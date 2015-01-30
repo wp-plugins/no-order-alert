@@ -4,14 +4,14 @@ Plugin URI: http://multidots.com/
 Description: User will set custom time duration to send the emails related to last placed order to admin.
 Author: Multidots
 Author URI: http://multidots.com/
-Contributors: Multidots Solutions Pvt. Ltd.
+Contributors: dots
 Version: 1.0.0
 Stable tag: 1.0
 Tags: no order notification email, woocommerce no order alert,woocommerce,order alert
 Requires at least: 3.9
 Tested up to: 4.1
 Donate link: 
-Copyright: (c) 2014-2015 Multidots Solutions PVT LTD (info@multidots.com) 
+Copyright: (c) 2014-2015 Multidots Solutions PVT LTD (info@multidots.com)
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
